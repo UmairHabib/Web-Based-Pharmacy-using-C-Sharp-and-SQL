@@ -1,0 +1,26 @@
+﻿<head id="Head1" runat="server">
+    <title></title>
+    <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<header class="header">
+    <div style="color:white">
+        <h1>PHOENIX PHARMACY</h1>
+    </div>
+</header>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+<footer class="footer">
+    <div class="div" style="color:white; height: 34px;">
+        This project is made by: <br />
+        Umair Habib, Saqib Rashid and Moiz Ahmed
+    </div>
+</footer>

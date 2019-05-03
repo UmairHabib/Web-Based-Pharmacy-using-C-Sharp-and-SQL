@@ -1,0 +1,31 @@
+c:\users\mian saqib\documents\visual studio 2012\Projects\MedicalStore\MedicalStore\bin\MedicalStore.dll
+c:\users\mian saqib\documents\visual studio 2012\Projects\MedicalStore\MedicalStore\bin\MedicalStore.pdb
+c:\users\mian saqib\documents\visual studio 2012\Projects\MedicalStore\MedicalStore\obj\Debug\MedicalStore.csprojResolveAssemblyReference.cache
+c:\users\mian saqib\documents\visual studio 2012\Projects\MedicalStore\MedicalStore\obj\Debug\MedicalStore.dll
+c:\users\mian saqib\documents\visual studio 2012\Projects\MedicalStore\MedicalStore\obj\Debug\MedicalStore.pdb
+C:\Users\123\Downloads\MedicalStore\MedicalStore\bin\MedicalStore.dll
+C:\Users\123\Downloads\MedicalStore\MedicalStore\bin\MedicalStore.pdb
+C:\Users\123\Downloads\MedicalStore\MedicalStore\obj\Debug\MedicalStore.csprojResolveAssemblyReference.cache
+C:\Users\123\Downloads\MedicalStore\MedicalStore\obj\Debug\MedicalStore.dll
+C:\Users\123\Downloads\MedicalStore\MedicalStore\obj\Debug\MedicalStore.pdb
+C:\Users\Lucky\Desktop\1\MedicalStore\MedicalStore\bin\MedicalStore.dll
+C:\Users\Lucky\Desktop\1\MedicalStore\MedicalStore\bin\MedicalStore.pdb
+C:\Users\Lucky\Desktop\1\MedicalStore\MedicalStore\obj\Debug\MedicalStore.csprojResolveAssemblyReference.cache
+C:\Users\Lucky\Desktop\1\MedicalStore\MedicalStore\obj\Debug\MedicalStore.dll
+C:\Users\Lucky\Desktop\1\MedicalStore\MedicalStore\obj\Debug\MedicalStore.pdb
+C:\Users\123\Desktop\DB_Project\MedicalStore\MedicalStore\bin\MedicalStore.dll
+C:\Users\123\Desktop\DB_Project\MedicalStore\MedicalStore\bin\MedicalStore.pdb
+C:\Users\123\Desktop\DB_Project\MedicalStore\MedicalStore\obj\Debug\MedicalStore.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\DB_Project\MedicalStore\MedicalStore\obj\Debug\MedicalStore.dll
+C:\Users\123\Desktop\DB_Project\MedicalStore\MedicalStore\obj\Debug\MedicalStore.pdb
+C:\Users\Lucky\Desktop\MedicalStore\MedicalStore\bin\MedicalStore.dll
+C:\Users\Lucky\Desktop\MedicalStore\MedicalStore\bin\MedicalStore.pdb
+C:\Users\Lucky\Desktop\MedicalStore\MedicalStore\obj\Debug\MedicalStore.csprojResolveAssemblyReference.cache
+C:\Users\Lucky\Desktop\MedicalStore\MedicalStore\obj\Debug\MedicalStore.dll
+C:\Users\Lucky\Desktop\MedicalStore\MedicalStore\obj\Debug\MedicalStore.pdb
+C:\Users\Zaheer Ud Din Faiz\Desktop\Modified\Modified\MedicalStore\bin\MedicalStore.dll.config
+C:\Users\Zaheer Ud Din Faiz\Desktop\Modified\Modified\MedicalStore\bin\MedicalStore.dll
+C:\Users\Zaheer Ud Din Faiz\Desktop\Modified\Modified\MedicalStore\bin\MedicalStore.pdb
+C:\Users\Zaheer Ud Din Faiz\Desktop\Modified\Modified\MedicalStore\obj\Debug\MedicalStore.csprojResolveAssemblyReference.cache
+C:\Users\Zaheer Ud Din Faiz\Desktop\Modified\Modified\MedicalStore\obj\Debug\MedicalStore.dll
+C:\Users\Zaheer Ud Din Faiz\Desktop\Modified\Modified\MedicalStore\obj\Debug\MedicalStore.pdb
